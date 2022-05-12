@@ -1,0 +1,25 @@
+.contacts {
+  margin-bottom: 50px;
+}
+
+.contacts .type {
+  margin-right: 10px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+}
+
+.contacts .link {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  opacity: 0.5;
+  transition: color 250ms ease-out;
+
+  &:hover,
+  &:focus {
+    color: #fb6d3a;
+  }
+}

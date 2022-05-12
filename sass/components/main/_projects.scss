@@ -1,0 +1,40 @@
+.projects {
+  margin-bottom: 50px;
+}
+
+.projects-list {
+  margin-left: 15px;
+  padding: 0px;
+}
+
+.projects .item {
+  color: #000000;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+}
+
+.project,
+.project .link {
+  color: #595959;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+}
+
+.project .link {
+  margin-left: 10px;
+  transition: color 250ms ease-out;
+
+  &:hover,
+  &:focus {
+    color: #fb6d3a;
+  }
+}
+
+.project .bracket {
+  color: #000000;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+}
