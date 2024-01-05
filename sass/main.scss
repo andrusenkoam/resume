@@ -1,0 +1,14 @@
+@import './base/reset';
+@import './base/common';
+
+// Main content
+@import './components/main/content';
+@import './components/main/about';
+@import './components/main/projects';
+@import './components/main/work';
+@import './components/main/education';
+
+// Sidebar
+@import './components/sidebar/sidebar';
+@import './components/sidebar/contacts';
+@import './components/sidebar/skills';

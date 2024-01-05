@@ -1,0 +1,41 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.title {
+  margin-bottom: 12px;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.period {
+  margin-bottom: 10px;
+  color: #a8a8a8;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.25;
+}
+
+.line {
+  color: #000000;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.25;
+}
+
+.sidebar-title {
+  margin-bottom: 10px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.22;
+}
+
+.contacts,
+.tech-skills,
+.soft-skills {
+  margin-left: 40px;
+}
